@@ -1,0 +1,1 @@
+# coverageminimalexample2
