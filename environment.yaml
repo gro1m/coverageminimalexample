@@ -2,4 +2,3 @@ name: coverageminimalexample
 dependencies:
   - coverage=6.3.*
   - pytest=7.1.*
-  - pytest-cov=3.0.*
